@@ -12,3 +12,5 @@ A Microsoft Excel tool to help a user to chart out a timeline of events of a bus
 Column D to Column G calculates the user inputs in "Start Date" (Column B) to "End Date" (Column C) for total amount of time of the business occurrence and tome of each steps of the business occurrence.
 
 Table are sortable on each column.
+
+timeline-of-events-business-days © 2022 by Philip Bachas-Daunert is licensed under Here's your markdown hyperlink for the \[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International\](https://creativecommons.org/licenses/by-nc-nd/4.0/)
