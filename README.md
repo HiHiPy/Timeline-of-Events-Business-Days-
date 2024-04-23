@@ -13,4 +13,4 @@ Column D to Column G calculates the user inputs in "Start Date" (Column B) to "E
 
 Table are sortable on each column.
 
-timeline-of-events-business-days © 2022 by Philip Bachas-Daunert is licensed under Here's your markdown hyperlink for the \[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International\](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+timeline-of-events-business-days © 2022 by Philip Bachas-Daunert is licensed under Here's your markdown hyperlink for the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
